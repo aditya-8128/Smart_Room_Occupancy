@@ -1,7 +1,5 @@
 # Smart Room Occupancy Monitoring & Automation System
 
-![GitHub repo size](https://img.shields.io/github/repo-size/aditya-8128/Smart_Room_Occupancy) ![GitHub top language](https://img.shields.io/github/languages/top/aditya-8128/Smart_Room_Occupancy?style=flat) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-
 An intelligent, microcontroller-based system designed to automatically track room occupancy and control electrical appliances to conserve energy. This project was developed as part of our hardware lab, focusing on system integration, PCB design, and embedded programming.
 
 ---
@@ -84,11 +82,6 @@ This project serves as a strong foundation for a more advanced smart building so
 ## 👥 Contributors
 
 * Aditya Upadhyay
-* [Member 2 Name]
-* [Member 3 Name]
+* Tushar Joshi
+* Nikita Verma
 
----
-
-## 📜 License
-
-This project is licensed under the MIT License - see the `LICENSE` file for details.
